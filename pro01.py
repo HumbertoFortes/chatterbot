@@ -9,7 +9,7 @@ conversation = [
 	'Hello',
 	'hi there!',
 	'How are you doing?',
-	'I\' doing great.',
+	'I\'m doing great.',
 	'That is good to hear',
 	'Thank you',
 	'You\'re welcome.'
